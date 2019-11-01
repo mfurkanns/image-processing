@@ -1,0 +1,3 @@
+﻿  Goruntu.cpp
+C:\Users\FATSAN\source\repos\Goruntu\Goruntu.cpp(11,12): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Goruntu.vcxproj -> C:\Users\FATSAN\source\repos\Goruntu\x64\Debug\Goruntu.exe
